@@ -1,0 +1,7 @@
+{
+  "name": "SmartRoute AI",
+  "description": "Intelligent Traffic & Travel Assistant – Predict traffic, find smarter routes, and reach faster with AI predictions, road conditions, and live alerts.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
